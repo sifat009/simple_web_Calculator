@@ -39,6 +39,9 @@ input[type="button"] {
 	font-weight: bold;
 	margin: 0px 5px 10px;
 }
+input[type="button"]:focus{
+	outline: none;
+}
 .last{
 	padding-bottom: 10px;
 }
